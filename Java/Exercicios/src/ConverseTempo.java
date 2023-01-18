@@ -10,6 +10,7 @@ public class ConverseTempo {
         int segundos = (N % 3600) % 60;
 
         System.out.printf("%d:%d:%d\n", horas, minutos, segundos);
+        sc.close();
 
     }
 }

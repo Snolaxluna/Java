@@ -1,1 +1,1 @@
-Exercicios feitos por mim para treino na linguagem JAVA
+Exercicios feitos por mim para treino na linguagem JAVA.
